@@ -4,7 +4,7 @@
  */
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "simple-cloudflare-playground",
+  "name": "simple-playground",
   "compatibility_date": "2025-07-08",
   "main": "src/index.ts",
   "assets": {
